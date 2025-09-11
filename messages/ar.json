@@ -1,0 +1,97 @@
+{
+  "layout": {
+    "header": {
+      "colorTheme_Toggler": {
+        "toolTip": "تغيير إعدادات الألوان"
+      }
+    },
+    "unauthorizedHero": {
+      "subtitle": "Empower your learning journey with our smart exam platform.",
+      "features": {
+        "tailoredDiplomas": {
+          "title": "Tailored Diplomas",
+          "description": "Choose from specialized tracks like Frontend, Backend, and Mobile Development."
+        },
+        "focusedExams": {
+          "title": "Focused Exams",
+          "description": "Access topic-specific tests including HTML, CSS, JavaScript, and more."
+        },
+        "smartMultiStepForms": {
+          "title": "Smart Multi-Step Forms",
+          "description": "Choose from specialized tracks like Frontend, Backend, and Mobile Development."
+        }
+      }
+    }
+  },
+  "signInPage": {
+    "heading": "نسجيل الدخول",
+    "doNotHaveAccount": "ليس لديك حساب؟ <signup>انشئ واحدًا</signup>"
+  },
+  "signUpPage": {
+    "heading": "إنشاء حساب",
+    "haveAccount": "لديك حساب بالفعل؟ <signin>سجل دخولك</signin>"
+  },
+  "forgotPasswordPage": {
+    "forgot": {
+      "heading": "نسيت كلمة المرور",
+      "subheading": "Don't worry, we will help you recover your account."
+    },
+    "otp": {
+      "heading": "Verify OTP",
+      "subheading": "Please enter the 6-digits code we have sent to:"
+    },
+    "change": {
+      "heading": "Create a New Password",
+      "subheading": "Create a new strong password for your account."
+    }
+  },
+  "examsPage": {
+    "heading": "الاختبارات"
+  },
+  "ExamPage": {
+    "heading": "الاختبار"
+  },
+  "createExamPage": {
+    "heading": "انشاء اختبار"
+  },
+  "subjectsPage": {
+    "heading": "المواد"
+  },
+  "createSubjectPage": {
+    "heading": "انشاء مادة"
+  },
+  "form": {
+    "actions": {
+      "submit": "تأكيد",
+      "continue": "متابعة",
+      "signin": "تسجيل الدخول",
+      "signup": "إنشاء حساب",
+      "forgotPassword": "نسيت كلمة المرور",
+      "verifyCode": "تأكيد الرمز"
+    },
+    "labels": {
+      "firstName": "الاسم الأول",
+      "lastName": "الاسم الأخير",
+      "username": "اسم المستخدم",
+      "phone": "رقم الهاتف",
+      "email": "البريد الإلكتروني",
+      "password": "كلمة المرور",
+      "confirmPasswrod": "تأكيد كلمة المرور"
+    }
+  },
+  "input": {
+    "togglePassword": "رؤية كلمة المرور",
+    "forgotPasswrod": "أنسيت كلمة مرورك؟"
+  },
+  "types": {
+    "colorThemes": {
+      "light": "فاتح",
+      "dark": "داكن",
+      "system": "النظام"
+    }
+  },
+  "keyWords": {
+    "loading": "جارِ التحميل",
+    "authenticating": "جارِ التحقق من الهوية"
+  }
+}

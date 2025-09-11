@@ -1,0 +1,97 @@
+{
+  "layout": {
+    "header": {
+      "colorTheme_Toggler": {
+        "toolTip": "Change color theme"
+      }
+    },
+    "unauthorizedHero": {
+      "subtitle": "Empower your learning journey with our smart exam platform.",
+      "features": {
+        "tailoredDiplomas": {
+          "title": "Tailored Diplomas",
+          "description": "Choose from specialized tracks like Frontend, Backend, and Mobile Development."
+        },
+        "focusedExams": {
+          "title": "Focused Exams",
+          "description": "Access topic-specific tests including HTML, CSS, JavaScript, and more."
+        },
+        "smartMultiStepForms": {
+          "title": "Smart Multi-Step Forms",
+          "description": "Choose from specialized tracks like Frontend, Backend, and Mobile Development."
+        }
+      }
+    }
+  },
+  "signInPage": {
+    "heading": "Sign In",
+    "doNotHaveAccount": "Don't have an account? <signup>Create yours</signup>"
+  },
+  "signUpPage": {
+    "heading": "Sign Up",
+    "haveAccount": "Already have an account? <signin>Sign in</signin>"
+  },
+  "forgotPasswordPage": {
+    "forgot": {
+      "heading": "Forgot Password",
+      "subheading": "Don't worry, we will help you recover your account."
+    },
+    "otp": {
+      "heading": "Verify OTP",
+      "subheading": "Please enter the 6-digits code we have sent to:"
+    },
+    "change": {
+      "heading": "Create a New Password",
+      "subheading": "Create a new strong password for your account."
+    }
+  },
+  "examsPage": {
+    "heading": "Exams"
+  },
+  "ExamPage": {
+    "heading": "Exam"
+  },
+  "createExamPage": {
+    "heading": "Create Exams"
+  },
+  "subjectsPage": {
+    "heading": "Subjects"
+  },
+  "createSubjectPage": {
+    "heading": "Create Subject"
+  },
+  "form": {
+    "actions": {
+      "submit": "Submit",
+      "continue": "Continue",
+      "signin": "Sign In",
+      "signup": "Sign Up",
+      "forgotPassword": "Forgot Password",
+      "verifyCode": "Verify Code"
+    },
+    "labels": {
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "username": "Username",
+      "phone": "Phone Number",
+      "email": "Email",
+      "password": "Password",
+      "confirmPasswrod": "Confirm Password"
+    }
+  },
+  "input": {
+    "togglePassword": "Toggle Password",
+    "forgotPasswrod": "Forgot your password?"
+  },
+  "types": {
+    "colorThemes": {
+      "light": "light",
+      "dark": "dark",
+      "system": "system"
+    }
+  },
+  "keyWords": {
+    "loading": "loading",
+    "authenticating": "authenticating"
+  }
+}
